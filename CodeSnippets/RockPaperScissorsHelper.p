@@ -1,6 +1,6 @@
-__author__ = 'Kenny Mitchell'
-#Problem 4
-print('Welcome to Rock-Paper-Scissors Cheater!\nI hope you have fun!')
+__author__ = 'KernelForbin'
+# Rock Paper Scissors Helper, suggests move based on oponent move
+print('Welcome to Rock-Paper-Scissors Helper!\nI hope you have fun!')
 
 win_input = input('\nDo you want to win or lose? ')
 wants_to_win = 0
