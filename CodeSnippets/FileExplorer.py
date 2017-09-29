@@ -1,4 +1,6 @@
-__author__ = 'computerlab'
+__author__ = 'KernelForbin '
+
+# Open, read and print a file.
 
 while True:
     file_name = input('Input the name of a file: ')
