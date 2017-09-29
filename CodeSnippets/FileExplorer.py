@@ -1,4 +1,4 @@
-__author__ = 'KernelForbin '
+__author__ = 'KernelForbin'
 
 # Open, read and print a file.
 
